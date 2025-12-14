@@ -35,6 +35,7 @@ Live Demo
   - Low stock alerts
   - Stock movement history
   - CSV export functionality
+  - add bulk functionality
 
 - **Full CRUD Operations**
   - Create, Read, Update, Delete products
@@ -57,7 +58,7 @@ rafiashop/
 
 1. **Clone repository:**
   
-   git clone https://github.com/yourusername/rafiashop.git
+   https://github.com/rafiatoumalamali-cell/rafiashop.git
    cd rafiashop
    
    **import database**
@@ -70,3 +71,4 @@ rafiashop/
    **key tables**
    see EER diagram
    
+
